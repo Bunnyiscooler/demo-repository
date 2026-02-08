@@ -5,5 +5,6 @@
 ### IF THE CODE HAS 🐛 THEN IT HAS BUGS
 ### IF THE CODE HAS 🧑‍💻 THEN ITS NOT MY CODE
 ### IF THE CODE HAS 🌟 THEN IT IS MY CODE
+### IF THE CODE HAS ⁉️ THEN IT IS FROM A TUTORIAL
 
 (give credit if you want, not needed but appreciated)
