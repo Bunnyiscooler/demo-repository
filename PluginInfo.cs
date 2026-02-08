@@ -1,8 +1,8 @@
 ﻿namespace DEMO
 {
-    /// <summary>
-    /// This class is used to provide information about your mod to BepInEx.
-    /// </summary>
+
+// this is where your plugin info should be
+     
     internal class PluginInfo
     {
         public const string GUID = "com.DEMO.gorillatag.DEMO";
